@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340" viewBox="0 0 600 340" role="img" aria-labelledby="card-title">
+  <title id="card-title">Fernhollow donation form</title>
+  <rect width="600" height="340" rx="16" fill="#fdf1e4"/>
+  <rect x="40" y="40" width="300" height="260" rx="10" fill="#ffffff" stroke="#e6d6c3"/>
+  <rect x="64" y="70" width="180" height="16" rx="4" fill="#001f3d"/>
+  <rect x="64" y="104" width="250" height="10" rx="4" fill="#c9d2da"/>
+  <rect x="64" y="124" width="220" height="10" rx="4" fill="#c9d2da"/>
+  <rect x="64" y="160" width="76" height="44" rx="8" fill="#ffffff" stroke="#e87a00" stroke-width="3"/>
+  <rect x="152" y="160" width="76" height="44" rx="8" fill="#ffffff" stroke="#c9d2da" stroke-width="2"/>
+  <rect x="240" y="160" width="76" height="44" rx="8" fill="#ffffff" stroke="#c9d2da" stroke-width="2"/>
+  <rect x="64" y="232" width="252" height="44" rx="22" fill="#ffa000"/>
+  <text x="372" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#001f3d">Donation form</text>
+  <text x="372" y="184" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#045174">Multi-step · WCAG 2.2 AA</text>
+</svg>

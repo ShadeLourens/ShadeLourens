@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" role="img" aria-labelledby="banner-title">
+  <title id="banner-title">Shade Lourens, frontend developer with a design background</title>
+  <style>
+    .name { font: 700 64px "Segoe UI", Helvetica, Arial, sans-serif; fill: #001f3d; animation: rise .8s ease-out both; }
+    .role { font: 400 26px "Segoe UI", Helvetica, Arial, sans-serif; fill: #045174; animation: rise .8s ease-out .9s both; }
+    .underline { fill: none; stroke: #f2994a; stroke-width: 6; stroke-linecap: round; stroke-dasharray: 480; animation: draw 1.1s ease-in-out .4s both; }
+    .glow, .sun, .dot { transform-box: fill-box; transform-origin: center; }
+    .glow { fill: #fdf1e4; animation: breathe 8s ease-in-out infinite; }
+    .sun { fill: #f2994a; opacity: .9; animation: float 6s ease-in-out infinite; }
+    .dot { fill: #f2994a; opacity: .5; animation: float 5s ease-in-out infinite; }
+    .dot.two { animation-duration: 7s; animation-delay: -2s; }
+
+    @keyframes rise { from { opacity: 0; transform: translateY(12px); } }
+    @keyframes draw { from { stroke-dashoffset: 480; } }
+    @keyframes breathe { 50% { transform: scale(1.08); } }
+    @keyframes float { 50% { transform: translateY(-14px); } }
+
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+    }
+  </style>
+  <rect x=".5" y=".5" width="1279" height="319" rx="16" fill="#ffffff" stroke="#d0d7de"/>
+  <circle class="glow" cx="1110" cy="110" r="70"/>
+  <circle class="sun" cx="1180" cy="200" r="34"/>
+  <circle class="dot" cx="1010" cy="220" r="6"/>
+  <circle class="dot two" cx="1050" cy="60" r="4"/>
+  <text class="name" x="80" y="150">Shade Lourens</text>
+  <path class="underline" d="M84,184c140,18 300,-16 460,2"/>
+  <text class="role" x="80" y="240">Frontend developer · design background</text>
+</svg>

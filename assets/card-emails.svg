@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340" viewBox="0 0 600 340" role="img" aria-labelledby="card-title">
+  <title id="card-title">Fernhollow appeal and receipt emails</title>
+  <rect width="600" height="340" rx="16" fill="#001f3d"/>
+  <rect x="40" y="36" width="150" height="268" rx="8" fill="#ffffff"/>
+  <rect x="40" y="36" width="150" height="34" rx="8" fill="#045174"/>
+  <rect x="56" y="86" width="118" height="8" rx="3" fill="#c9d2da"/>
+  <rect x="56" y="102" width="100" height="8" rx="3" fill="#c9d2da"/>
+  <rect x="56" y="122" width="118" height="56" rx="6" fill="#a7b59a"/>
+  <rect x="56" y="192" width="118" height="70" rx="4" fill="#fdf1e4"/>
+  <rect x="80" y="232" width="70" height="18" rx="9" fill="#ffa000"/>
+  <rect x="206" y="56" width="150" height="248" rx="8" fill="#ffffff"/>
+  <rect x="206" y="56" width="150" height="34" rx="8" fill="#045174"/>
+  <rect x="222" y="106" width="118" height="56" rx="6" fill="#b9a58f"/>
+  <rect x="222" y="176" width="118" height="64" rx="4" fill="#fdf1e4"/>
+  <text x="376" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Appeal + receipt</text>
+  <text x="376" y="184" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#f8dcbf">MJML · Engaging Networks</text>
+</svg>
